@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote fetch="../SEL4PROJ" name="SEL4PROJ"/>
-  <remote fetch="." name="seL4"/>
+  <remote fetch="../seL4" name="seL4"/>
   
   <default remote="seL4" revision="master"/>
   
